@@ -12,8 +12,8 @@ type IllustBookmark struct {
 	client   pixiv.Session
 }
 
-func NewIllustBookmark(client pixiv.Session) *Illust {
-	return &Illust{
+func NewIllustBookmark(client pixiv.Session) *IllustBookmark {
+	return &IllustBookmark{
 		BasePath: "/v2/illust/bookmark",
 		client:   client,
 	}
