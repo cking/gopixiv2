@@ -8,11 +8,13 @@ import (
 
 type API struct {
 	Illust *Illust
+	IllustBookmark *IllustBookmark
 }
 
 func NewAPI(client pixiv.Session) *API {
 	return &API{
 		Illust: NewIllust(client),
+		IllustBookmark´: NewIllustBookmark(client),
 	}
 }
 
