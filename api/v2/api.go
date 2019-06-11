@@ -14,7 +14,7 @@ type API struct {
 func NewAPI(client pixiv.Session) *API {
 	return &API{
 		Illust: NewIllust(client),
-		IllustBookmark´: NewIllustBookmark(client),
+		IllustBookmark: NewIllustBookmark(client),
 	}
 }
 
