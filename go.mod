@@ -19,4 +19,4 @@ require (
 	google.golang.org/appengine v1.3.0 // indirect
 )
 
-replace github.com/kanosaki/pixiv_oauth2 => github.com/cking/pixiv_oauth2 v0.0.0-20190903085701-f689671ff592
+replace github.com/kanosaki/pixiv_oauth2 => github.com/cking/pixiv_oauth2 v0.0.0-20190903093741-846e73a3ca48

@@ -1,7 +1,7 @@
 github.com/c-bata/go-prompt v0.2.3 h1:jjCS+QhG/sULBhAaBdjb2PlMRVaKXQgn+4yzaauvs2s=
 github.com/c-bata/go-prompt v0.2.3/go.mod h1:VzqtzE2ksDBcdln8G7mk2RX9QyGjH+OVqOCSiVIqS34=
-github.com/cking/pixiv_oauth2 v0.0.0-20190903085701-f689671ff592 h1:EsVQOgqtJp/j++D2NQfPw49rMqFy+fvJJJ3dQ0+fIz0=
-github.com/cking/pixiv_oauth2 v0.0.0-20190903085701-f689671ff592/go.mod h1:GOsnZopHody5RCXy0FiJ4ZL3Thdcoc2t3KeKAOWYWOw=
+github.com/cking/pixiv_oauth2 v0.0.0-20190903093741-846e73a3ca48 h1:gLNIejJDJ3zt0TxxGo7aT2XV8SmAGLtmIulfADF8ReY=
+github.com/cking/pixiv_oauth2 v0.0.0-20190903093741-846e73a3ca48/go.mod h1:GOsnZopHody5RCXy0FiJ4ZL3Thdcoc2t3KeKAOWYWOw=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.2.0 h1:P3YflyNX/ehuJFLhxviNdFxQPkGK5cDcApsge1SqnvM=
