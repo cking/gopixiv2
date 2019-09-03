@@ -18,3 +18,5 @@ require (
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
 	google.golang.org/appengine v1.3.0 // indirect
 )
+
+replace github.com/kanosaki/pixiv_oauth2 => github.com/cking/pixiv_oauth2 v0.0.0-20190903085701-f689671ff592
